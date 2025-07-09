@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA54F5-D3A6-4D41-B334-7A4D21B99EFA}|..\\Contracts\\Contracts.csproj|d:\\companyemployeewebapi\\projectwebapi\\contracts\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA54F5-D3A6-4D41-B334-7A4D21B99EFA}|..\\Contracts\\Contracts.csproj|d:\\companyemployeewebapi\\projectwebapi\\contracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5A33E0-1252-447F-BBC8-CACDEBBF47BF}|..\\Repository\\Repository.csproj|d:\\companyemployeewebapi\\projectwebapi\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA54F5-D3A6-4D41-B334-7A4D21B99EFA}|..\\Contracts\\Contracts.csproj|d:\\companyemployeewebapi\\projectwebapi\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A7927-D172-437A-AE70-B13C10AD3212}|..\\Entities\\Entities.csproj|d:\\companyemployeewebapi\\projectwebapi\\entities\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A7927-D172-437A-AE70-B13C10AD3212}|..\\Entities\\Entities.csproj|d:\\companyemployeewebapi\\projectwebapi\\entities\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|d:\\companyemployeewebapi\\projectwebapi\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A7927-D172-437A-AE70-B13C10AD3212}|..\\Entities\\Entities.csproj|d:\\companyemployeewebapi\\projectwebapi\\entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A7927-D172-437A-AE70-B13C10AD3212}|..\\Entities\\Entities.csproj|d:\\companyemployeewebapi\\projectwebapi\\entities\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|d:\\companyemployeewebapi\\projectwebapi\\companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|d:\\companyemployeewebapi\\projectwebapi\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84B56D7-DB57-4C46-ACBF-5E2C2F5A9F5A}|CompanyEmployees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\IEmployeeRepository.cs",
+              "RelativeToolTip": "..\\Contracts\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:32:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ICompanyRepository.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\ICompanyRepository.cs",
+              "RelativeToolTip": "..\\Contracts\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:32:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "..\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:20:42.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "..\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:17:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "..\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:37:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "RelativeToolTip": "..\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:35:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T01:25:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Models\\Employee.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\Entities\\Models\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:44:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Models\\Company.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\Entities\\Models\\Company.cs",
+              "RelativeToolTip": "..\\Entities\\Models\\Company.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:43:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:38:38.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CompanyEmployeeWebAPI\\ProjectWebAPI\\CompanyEmployees\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:38:38.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

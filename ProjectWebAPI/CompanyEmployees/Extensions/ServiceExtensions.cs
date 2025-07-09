@@ -1,4 +1,7 @@
-﻿namespace CompanyEmployees.Extensions
+﻿using Entities;
+using Microsoft.EntityFrameworkCore;
+
+namespace CompanyEmployees.Extensions
 {
     public static class ServiceExtensions
     {
@@ -17,5 +20,14 @@
             services.Configure<IISOptions>(options =>
             {
             });
+
+        public static void ConfigureSqlContext(this IServiceCollection services,
+            IConfiguration configuration)
+        {
+            services.AddDbContext<RepositoryContext>(opts =>
+                opts.UseSqlServer(configuration.GetConnectionString("sqlConnection"), b => b.MigrationsAssembly("CompanyEmployees")));
+        }
+            
+            
     }
 }
