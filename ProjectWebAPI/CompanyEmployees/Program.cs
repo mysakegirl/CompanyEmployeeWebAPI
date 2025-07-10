@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIIS();
 builder.Services.ConfigureSqlContext(builder.Configuration);
+builder.Services.ConfigureRepositoryManager();
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -23,7 +24,6 @@ app.UseForwardedHeaders(new ForwardedHeadersOptions
 });
 
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
